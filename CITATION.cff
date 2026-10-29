@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Turkish Coffee Cup Reading Symbols (Falyora)"
+type: dataset
+authors:
+  - name: "Falyora"
+    website: "https://falyora.app"
+url: "https://falyora.app"
+version: 0.1.0
+date-released: 2026-10-29
+license: CC-BY-4.0
+abstract: >-
+  Structured bilingual (Turkish and English) gists of Falyora's AI-assisted, human-checked
+  dictionary of 40 Turkish coffee cup reading (tasseography) symbols: the
+  traditional folk reading, Falyora's reading, and a gist for each of five
+  cup zones (rim, side wall, bottom, handle area, saucer).
+keywords:
+  - tasseography
+  - Turkish coffee
+  - coffee cup reading
+  - kahve falı
+  - symbols
+  - folklore

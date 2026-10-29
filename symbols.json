@@ -1,0 +1,762 @@
+[
+  {
+    "id": "agac",
+    "name_tr": "Ağaç",
+    "name_en": "Tree",
+    "category": "nature",
+    "traditional_en": "growth and branching out; visible roots point to family",
+    "falyora_reading_en": "many things growing out of one root",
+    "traditional_tr": "büyüme ve dallanma; görünen kökler aileyi anlatır",
+    "falyora_reading_tr": "tek bir kökten çoğalan birçok şey",
+    "zones": {
+      "rim": "something multiplying in the present",
+      "side": "a structure still taking shape",
+      "bottom": "roots, family and long-held habits",
+      "handle": "the order you built yourself",
+      "saucer": "ties and structures around you"
+    },
+    "url_tr": "https://falyora.app/semboller/agac",
+    "url_en": "https://falyora.app/en/symbols/tree"
+  },
+  {
+    "id": "anahtar",
+    "name_tr": "Anahtar",
+    "name_en": "Key",
+    "category": "objects",
+    "traditional_en": "a stuck matter opening up, a knot untied",
+    "falyora_reading_en": "access: whose hand holds the means to open",
+    "traditional_tr": "kapalı bir kapının açılması, düğümün çözülmesi",
+    "falyora_reading_tr": "erişim; açma imkânının kimin elinde olduğu",
+    "zones": {
+      "rim": "an answer already within reach",
+      "side": "a matter being worked out",
+      "bottom": "an old door kept shut",
+      "handle": "a lock only you can open",
+      "saucer": "help offered by people nearby"
+    },
+    "url_tr": "https://falyora.app/semboller/anahtar",
+    "url_en": "https://falyora.app/en/symbols/key"
+  },
+  {
+    "id": "aslan",
+    "name_tr": "Aslan",
+    "name_en": "Lion",
+    "category": "animals",
+    "traditional_en": "strength, courage and a voice others heed",
+    "falyora_reading_en": "bearing: standing your ground and showing yourself",
+    "traditional_tr": "güç, cesaret ve sözü dinlenen biri olmak",
+    "falyora_reading_tr": "duruş; geri adım atmadan kendini göstermek",
+    "zones": {
+      "rim": "wanting to say something plainly now",
+      "side": "firming up your place",
+      "bottom": "resilience gained long ago",
+      "handle": "your own self-confidence",
+      "saucer": "a weighty presence nearby, not against you"
+    },
+    "url_tr": "https://falyora.app/semboller/aslan",
+    "url_en": "https://falyora.app/en/symbols/lion"
+  },
+  {
+    "id": "at",
+    "name_tr": "At",
+    "name_en": "Horse",
+    "category": "animals",
+    "traditional_en": "news and travel; a galloping horse means quick developments",
+    "falyora_reading_en": "movement that carries weight in a clear direction",
+    "traditional_tr": "haber ve yolculuk; dörtnala koşan at hızlı gelişme",
+    "falyora_reading_tr": "yük taşıyabilen, yönü belli bir hareket",
+    "zones": {
+      "rim": "something gathering speed now",
+      "side": "legs show moving or standing still",
+      "bottom": "an effort sustained for years",
+      "handle": "your own strength and momentum",
+      "saucer": "a development around you that includes you"
+    },
+    "url_tr": "https://falyora.app/semboller/at",
+    "url_en": "https://falyora.app/en/symbols/horse"
+  },
+  {
+    "id": "balik",
+    "name_tr": "Balık",
+    "name_en": "Fish",
+    "category": "animals",
+    "traditional_en": "abundance and good fortune flowing in",
+    "falyora_reading_en": "flow: something travelling with direction and few obstacles",
+    "traditional_tr": "bolluk ve kısmetin açılması",
+    "falyora_reading_tr": "akış; yönü belli, önü açık ilerleyen bir şey",
+    "zones": {
+      "rim": "something just starting to flow",
+      "side": "ongoing flow, direction reads clearest here",
+      "bottom": "a long-running pattern you barely notice",
+      "handle": "progress kept going by your work",
+      "saucer": "movement started by others"
+    },
+    "url_tr": "https://falyora.app/semboller/balik",
+    "url_en": "https://falyora.app/en/symbols/fish"
+  },
+  {
+    "id": "bulut",
+    "name_tr": "Bulut",
+    "name_en": "Cloud",
+    "category": "nature",
+    "traditional_en": "indecision and a mind left unsettled",
+    "falyora_reading_en": "something still shapeless; too early to decide",
+    "traditional_tr": "kararsızlık ve zihni meşgul eden bir belirsizlik",
+    "falyora_reading_tr": "henüz şekil almamış, karar için erken bir konu",
+    "zones": {
+      "rim": "an unnamed thing nagging at you",
+      "side": "indecision slowly starting to clear",
+      "bottom": "an old, rarely considered open question",
+      "handle": "something you are still weighing inside",
+      "saucer": "an unspoken topic hanging at home"
+    },
+    "url_tr": "https://falyora.app/semboller/bulut",
+    "url_en": "https://falyora.app/en/symbols/cloud"
+  },
+  {
+    "id": "cicek",
+    "name_tr": "Çiçek",
+    "name_en": "Flower",
+    "category": "nature",
+    "traditional_en": "joy, glad tidings and a happy stretch",
+    "falyora_reading_en": "the moment something closed starts to open",
+    "traditional_tr": "neşe, güzel haber ve mutlu bir dönem",
+    "falyora_reading_tr": "kapalı bir şeyin açılmaya başladığı an",
+    "zones": {
+      "rim": "a small comfort in the present",
+      "side": "something mid-bloom, stem most visible",
+      "bottom": "a long-lasting affection or friendship",
+      "handle": "making room for yourself",
+      "saucer": "shared cheer among people close to you"
+    },
+    "url_tr": "https://falyora.app/semboller/cicek",
+    "url_en": "https://falyora.app/en/symbols/flower"
+  },
+  {
+    "id": "dag",
+    "name_tr": "Dağ",
+    "name_en": "Mountain",
+    "category": "nature",
+    "traditional_en": "an obstacle ahead or a hard road to cross",
+    "falyora_reading_en": "accumulated effort; the slope shows how it is carried",
+    "traditional_tr": "önündeki bir engel ya da aşılacak zor bir yol",
+    "falyora_reading_tr": "birikmiş emek; eğimi yükün nasıl taşındığını gösterir",
+    "zones": {
+      "rim": "something you are working on now",
+      "side": "compare slopes to see the harder part",
+      "bottom": "postponed tasks piling up over time",
+      "handle": "a goal you chose to climb",
+      "saucer": "a load shared by people nearby"
+    },
+    "url_tr": "https://falyora.app/semboller/dag",
+    "url_en": "https://falyora.app/en/symbols/mountain"
+  },
+  {
+    "id": "deve",
+    "name_tr": "Deve",
+    "name_en": "Camel",
+    "category": "animals",
+    "traditional_en": "kısmet, plenty and a slow but unbroken road",
+    "falyora_reading_en": "the strength to carry a heavy load far",
+    "traditional_tr": "kısmet, bereket ve yavaş ama durmayan bir yol",
+    "falyora_reading_tr": "ağır bir yükü uzun süre taşıyabilme gücü",
+    "zones": {
+      "rim": "a responsibility recently shouldered",
+      "side": "midway through something long-running",
+      "bottom": "a load carried for years",
+      "handle": "your own stamina and pace",
+      "saucer": "something arriving from far away"
+    },
+    "url_tr": "https://falyora.app/semboller/deve",
+    "url_en": "https://falyora.app/en/symbols/camel"
+  },
+  {
+    "id": "el",
+    "name_tr": "El",
+    "name_en": "Hand",
+    "category": "human",
+    "traditional_en": "a helping hand or an unexpected offer",
+    "falyora_reading_en": "contact: reaching for, giving or holding something",
+    "traditional_tr": "uzanan bir yardım eli ya da beklenmedik bir teklif",
+    "falyora_reading_tr": "temas; bir şeye uzanmak, vermek ya da tutmak",
+    "zones": {
+      "rim": "you reaching for something now",
+      "side": "where a shared effort currently stands",
+      "bottom": "a kindness remembered from the past",
+      "handle": "what you hold or release",
+      "saucer": "support reaching you from those nearby"
+    },
+    "url_tr": "https://falyora.app/semboller/el",
+    "url_en": "https://falyora.app/en/symbols/hand"
+  },
+  {
+    "id": "ev",
+    "name_tr": "Ev",
+    "name_en": "House",
+    "category": "objects",
+    "traditional_en": "home, family and change under your own roof",
+    "falyora_reading_en": "a boundary: the room you guard as your own",
+    "traditional_tr": "yuva, aile ve çatı altındaki değişim",
+    "falyora_reading_tr": "bir sınır; korumak istediğin kendi alanın",
+    "zones": {
+      "rim": "a space you are rearranging now",
+      "side": "an order still being built",
+      "bottom": "where you come from, family habits",
+      "handle": "a corner or time just yours",
+      "saucer": "other homes and open doors around you"
+    },
+    "url_tr": "https://falyora.app/semboller/ev",
+    "url_en": "https://falyora.app/en/symbols/house"
+  },
+  {
+    "id": "fil",
+    "name_tr": "Fil",
+    "name_en": "Elephant",
+    "category": "animals",
+    "traditional_en": "strength, luck and powerful backing behind you",
+    "falyora_reading_en": "weight and steadiness; something not easily shaken",
+    "traditional_tr": "güç, şans ve arkanda duran sağlam bir destek",
+    "falyora_reading_tr": "ağırlık ve sağlamlık; kolay sarsılmayan bir şey",
+    "zones": {
+      "rim": "a large matter occupying daily life",
+      "side": "slow progress on solid ground",
+      "bottom": "support reaching back through generations",
+      "handle": "your own steadiness",
+      "saucer": "a broad structure you can lean on"
+    },
+    "url_tr": "https://falyora.app/semboller/fil",
+    "url_en": "https://falyora.app/en/symbols/elephant"
+  },
+  {
+    "id": "gemi",
+    "name_tr": "Gemi",
+    "name_en": "Ship",
+    "category": "objects",
+    "traditional_en": "a long voyage overseas or fortune already en route",
+    "falyora_reading_en": "many-part work that must move together, slowly",
+    "traditional_tr": "deniz aşırı uzun bir yol ya da yola çıkmış kısmet",
+    "falyora_reading_tr": "birlikte hareket etmesi gereken çok parçalı bir iş",
+    "zones": {
+      "rim": "a movement that has just begun",
+      "side": "a process halfway, the grounds show the sea",
+      "bottom": "a long-carried shared responsibility",
+      "handle": "something you are steering yourself",
+      "saucer": "matters others are bringing toward you"
+    },
+    "url_tr": "https://falyora.app/semboller/gemi",
+    "url_en": "https://falyora.app/en/symbols/ship"
+  },
+  {
+    "id": "goz",
+    "name_tr": "Göz",
+    "name_en": "Eye",
+    "category": "human",
+    "traditional_en": "an envious gaze someone directs at you",
+    "falyora_reading_en": "attention: a place where a gaze rests",
+    "traditional_tr": "birinin sana yönelttiği kıskanç bakış",
+    "falyora_reading_tr": "dikkat; bakışın üzerinde durduğu bir yer",
+    "zones": {
+      "rim": "what holds your attention now",
+      "side": "watching an ongoing matter, not acting yet",
+      "bottom": "a long habit of looking",
+      "handle": "checking in with yourself",
+      "saucer": "awareness among the people around you"
+    },
+    "url_tr": "https://falyora.app/semboller/goz",
+    "url_en": "https://falyora.app/en/symbols/eye"
+  },
+  {
+    "id": "gunes",
+    "name_tr": "Güneş",
+    "name_en": "Sun",
+    "category": "nature",
+    "traditional_en": "brightness, happiness and relief after a hard stretch",
+    "falyora_reading_en": "something coming out into the open, reaching outward",
+    "traditional_tr": "aydınlık, mutluluk ve zor günlerin ardından ferahlama",
+    "falyora_reading_tr": "içeride kalmayıp dışarıya açılan bir şey",
+    "zones": {
+      "rim": "something you are letting show now",
+      "side": "opening out; compare upper and lower rays",
+      "bottom": "a long-held source of warmth",
+      "handle": "light coming from you",
+      "saucer": "warmth and mood of those nearby"
+    },
+    "url_tr": "https://falyora.app/semboller/gunes",
+    "url_en": "https://falyora.app/en/symbols/sun"
+  },
+  {
+    "id": "halka",
+    "name_tr": "Halka",
+    "name_en": "Circle",
+    "category": "shapes",
+    "traditional_en": "completion, wholeness and things coming together",
+    "falyora_reading_en": "a cycle that has come full turn",
+    "traditional_tr": "tamamlanma, bütünlük ve bir araya geliş",
+    "falyora_reading_tr": "bir tam tur atıp başa dönen döngü",
+    "zones": {
+      "rim": "rounding off a small open loop",
+      "side": "a cycle still turning; check if closed",
+      "bottom": "an old pattern repeated across generations",
+      "handle": "something completed for your own sake",
+      "saucer": "people gathering around you"
+    },
+    "url_tr": "https://falyora.app/semboller/halka",
+    "url_en": "https://falyora.app/en/symbols/circle"
+  },
+  {
+    "id": "hilal",
+    "name_tr": "Hilal",
+    "name_en": "Crescent",
+    "category": "nature",
+    "traditional_en": "a fresh start and an answered wish",
+    "falyora_reading_en": "something unfinished but headed somewhere: preparation",
+    "traditional_tr": "yeni bir başlangıç ve dileğin karşılık bulması",
+    "falyora_reading_tr": "eksik ama yönü belli bir şey; hazırlık",
+    "zones": {
+      "rim": "a page just turning",
+      "side": "a growing beginning; the arc shows progress",
+      "bottom": "an old intention left half-done",
+      "handle": "starting over with a new habit",
+      "saucer": "a new order forming at home"
+    },
+    "url_tr": "https://falyora.app/semboller/hilal",
+    "url_en": "https://falyora.app/en/symbols/crescent"
+  },
+  {
+    "id": "insan",
+    "name_tr": "İnsan figürü",
+    "name_en": "Human figure",
+    "category": "human",
+    "traditional_en": "a person in your life, described by posture",
+    "falyora_reading_en": "presence: a stance being taken, often your own",
+    "traditional_tr": "hayatındaki biri; duruşu kim olduğunu anlatır",
+    "falyora_reading_tr": "varlık; çoğu zaman senin aldığın bir duruş",
+    "zones": {
+      "rim": "a stance in your life now",
+      "side": "upright or leaning posture is readable",
+      "bottom": "an old attitude or past relation",
+      "handle": "almost always you and your stance",
+      "saucer": "someone outside touching your life"
+    },
+    "url_tr": "https://falyora.app/semboller/insan",
+    "url_en": "https://falyora.app/en/symbols/person"
+  },
+  {
+    "id": "kalp",
+    "name_tr": "Kalp",
+    "name_en": "Heart",
+    "category": "shapes",
+    "traditional_en": "matters of feeling: love and attachment",
+    "falyora_reading_en": "weight: what sits heavily and matters to you",
+    "traditional_tr": "gönül meseleleri; sevgi ve bağlılık",
+    "falyora_reading_tr": "ağırlık; sende yer tutan ve önemli olan şey",
+    "zones": {
+      "rim": "a feeling newly stirred",
+      "side": "a bond formed but not settled",
+      "bottom": "an old, long-carried feeling",
+      "handle": "your own feeling, not another's",
+      "saucer": "closeness from an unexpected direction"
+    },
+    "url_tr": "https://falyora.app/semboller/kalp",
+    "url_en": "https://falyora.app/en/symbols/heart"
+  },
+  {
+    "id": "kartal",
+    "name_tr": "Kartal",
+    "name_en": "Eagle",
+    "category": "animals",
+    "traditional_en": "success, advancement and a position of weight",
+    "falyora_reading_en": "perspective: seeing a matter whole, from above",
+    "traditional_tr": "başarı, yükseliş ve güçlü bir konum",
+    "falyora_reading_tr": "bakış açısı; bir konuyu yukarıdan bütün görmek",
+    "zones": {
+      "rim": "stepping back to see the bigger picture",
+      "side": "a goal in progress, still distant",
+      "bottom": "an old goal set aside",
+      "handle": "deciding from your own height",
+      "saucer": "a distant institution shaping decisions"
+    },
+    "url_tr": "https://falyora.app/semboller/kartal",
+    "url_en": "https://falyora.app/en/symbols/eagle"
+  },
+  {
+    "id": "kedi",
+    "name_tr": "Kedi",
+    "name_en": "Cat",
+    "category": "animals",
+    "traditional_en": "an insincere acquaintance or small frictions at home",
+    "falyora_reading_en": "drawing your own lines and keeping your territory",
+    "traditional_tr": "samimiyetsiz bir tanıdık ya da evde küçük sürtüşmeler",
+    "falyora_reading_tr": "kendi sınırlarını çizmek, alanından vazgeçmemek",
+    "zones": {
+      "rim": "wanting a little room for yourself",
+      "side": "moving carefully, placing each step",
+      "bottom": "a boundary kept for a long time",
+      "handle": "your own independence and decisions",
+      "saucer": "someone nearby going their own way"
+    },
+    "url_tr": "https://falyora.app/semboller/kedi",
+    "url_en": "https://falyora.app/en/symbols/cat"
+  },
+  {
+    "id": "kelebek",
+    "name_tr": "Kelebek",
+    "name_en": "Butterfly",
+    "category": "animals",
+    "traditional_en": "glad news, lightness and change",
+    "falyora_reading_en": "balance between two sides and a passage between states",
+    "traditional_tr": "sevindirici haber, hafiflik ve değişim",
+    "falyora_reading_tr": "iki taraf arasında denge ve bir hâlden ötekine geçiş",
+    "zones": {
+      "rim": "something easing inside you now",
+      "side": "midway through a change",
+      "bottom": "a change quietly finished long ago",
+      "handle": "relief and change from within",
+      "saucer": "an unexpected kindness from others"
+    },
+    "url_tr": "https://falyora.app/semboller/kelebek",
+    "url_en": "https://falyora.app/en/symbols/butterfly"
+  },
+  {
+    "id": "kitap",
+    "name_tr": "Kitap",
+    "name_en": "Book",
+    "category": "objects",
+    "traditional_en": "knowledge, learning and education; sometimes official matters",
+    "falyora_reading_en": "the story you tell yourself, page by page",
+    "traditional_tr": "bilgi, öğrenme ve eğitim; bazen resmî işler",
+    "falyora_reading_tr": "kendine anlattığın hikâye, sayfa sayfa",
+    "zones": {
+      "rim": "a subject you are studying now",
+      "side": "the middle of the story",
+      "bottom": "an old lesson turned into habit",
+      "handle": "your own notes about who you are",
+      "saucer": "advice and knowledge from others"
+    },
+    "url_tr": "https://falyora.app/semboller/kitap",
+    "url_en": "https://falyora.app/en/symbols/book"
+  },
+  {
+    "id": "kopek",
+    "name_tr": "Köpek",
+    "name_en": "Dog",
+    "category": "animals",
+    "traditional_en": "a loyal friend who stands by you",
+    "falyora_reading_en": "attachment, including your own staying with something",
+    "traditional_tr": "zor günde yanında duran sadık bir dost",
+    "falyora_reading_tr": "bağlılık; senin de bir şeye bağlı kalman",
+    "zones": {
+      "rim": "a presence you are only now noticing",
+      "side": "walking together or patiently waiting",
+      "bottom": "a bond reaching far back",
+      "handle": "your own loyalty to something",
+      "saucer": "a circle ready to back you"
+    },
+    "url_tr": "https://falyora.app/semboller/kopek",
+    "url_en": "https://falyora.app/en/symbols/dog"
+  },
+  {
+    "id": "kopru",
+    "name_tr": "Köprü",
+    "name_en": "Bridge",
+    "category": "objects",
+    "traditional_en": "getting past an obstacle, crossing into a new period",
+    "falyora_reading_en": "a crossing that makes a gap passable",
+    "traditional_tr": "engeli aşmak, yeni bir döneme geçmek",
+    "falyora_reading_tr": "ayrı iki yer arasında bulunan bir geçit",
+    "zones": {
+      "rim": "a connection you are building now",
+      "side": "the surest place to read an arch",
+      "bottom": "an old link easily crossed today",
+      "handle": "your own crossing between roles",
+      "saucer": "others connecting, maybe through you"
+    },
+    "url_tr": "https://falyora.app/semboller/kopru",
+    "url_en": "https://falyora.app/en/symbols/bridge"
+  },
+  {
+    "id": "kus",
+    "name_tr": "Kuş",
+    "name_en": "Bird",
+    "category": "animals",
+    "traditional_en": "news, arriving soon if the bird is flying",
+    "falyora_reading_en": "lightness: something coming loose and lifting",
+    "traditional_tr": "haber; uçan kuş yakında gelecek bir haberdir",
+    "falyora_reading_tr": "hafiflik; yerinden çözülüp kalkan bir şey",
+    "zones": {
+      "rim": "something growing lighter now",
+      "side": "mid-movement; open or folded wings",
+      "bottom": "a closed-seeming old matter stirring again",
+      "handle": "putting down your own burden",
+      "saucer": "general movement among people around you"
+    },
+    "url_tr": "https://falyora.app/semboller/kus",
+    "url_en": "https://falyora.app/en/symbols/bird"
+  },
+  {
+    "id": "merdiven",
+    "name_tr": "Merdiven",
+    "name_en": "Ladder",
+    "category": "objects",
+    "traditional_en": "rising and progress, a long-awaited step taken",
+    "falyora_reading_en": "effort broken into small, repeating steps",
+    "traditional_tr": "yükseliş ve ilerleme; beklenen adımın atılması",
+    "falyora_reading_tr": "küçük, tekrar eden basamaklara bölünmüş emek",
+    "zones": {
+      "rim": "the last few rungs of something",
+      "side": "rung spacing shows the pace",
+      "bottom": "a climb begun long ago",
+      "handle": "a climb made by your own effort",
+      "saucer": "an order or queue around you"
+    },
+    "url_tr": "https://falyora.app/semboller/merdiven",
+    "url_en": "https://falyora.app/en/symbols/ladder"
+  },
+  {
+    "id": "mum",
+    "name_tr": "Mum",
+    "name_en": "Candle",
+    "category": "objects",
+    "traditional_en": "a wish, hope, light and a guiding person",
+    "falyora_reading_en": "close light: clarity arriving one step at a time",
+    "traditional_tr": "dilek, umut, ışık ve yol gösteren biri",
+    "falyora_reading_tr": "yakın ışık; yavaş yavaş netleşen bir konu",
+    "zones": {
+      "rim": "a long-followed thread coming to light",
+      "side": "an effort kept up, steady or wavering",
+      "bottom": "a long-kept, perhaps unnamed wish",
+      "handle": "lighting your own next step",
+      "saucer": "someone holding a light for you"
+    },
+    "url_tr": "https://falyora.app/semboller/mum",
+    "url_en": "https://falyora.app/en/symbols/candle"
+  },
+  {
+    "id": "nokta",
+    "name_tr": "Nokta",
+    "name_en": "Dots",
+    "category": "shapes",
+    "traditional_en": "a share of good fortune; more dots, more plenty",
+    "falyora_reading_en": "many tiny steps whose pattern carries the meaning",
+    "traditional_tr": "kısmet payı; nokta çoğaldıkça bereket artar",
+    "falyora_reading_tr": "küçük ve çok; birikerek anlam kazanan ayrıntılar",
+    "zones": {
+      "rim": "small jobs keeping you busy",
+      "side": "steps of a process, often in rows",
+      "bottom": "small things gathered over years",
+      "handle": "your daily small steps toward a goal",
+      "saucer": "everyday bustle of the household"
+    },
+    "url_tr": "https://falyora.app/semboller/nokta",
+    "url_en": "https://falyora.app/en/symbols/dots"
+  },
+  {
+    "id": "tac",
+    "name_tr": "Taç",
+    "name_en": "Crown",
+    "category": "objects",
+    "traditional_en": "success, honour and a name spoken well of",
+    "falyora_reading_en": "visibility: your effort being noticed and named",
+    "traditional_tr": "başarı, itibar ve adının iyi anılması",
+    "falyora_reading_tr": "görünürlük; emeğinin fark edilmesi ve adını alması",
+    "zones": {
+      "rim": "quiet effort starting to be noticed",
+      "side": "a place being earned; check the points",
+      "bottom": "an old achievement that brought you here",
+      "handle": "the worth you give yourself",
+      "saucer": "appreciation from people around you"
+    },
+    "url_tr": "https://falyora.app/semboller/tac",
+    "url_en": "https://falyora.app/en/symbols/crown"
+  },
+  {
+    "id": "tavsan",
+    "name_tr": "Tavşan",
+    "name_en": "Rabbit",
+    "category": "animals",
+    "traditional_en": "timidity and hesitation, or a matter moving fast",
+    "falyora_reading_en": "alertness: listening closely, ready to move",
+    "traditional_tr": "çekingenlik ve tereddüt ya da hızlı ilerleyen bir iş",
+    "falyora_reading_tr": "tetikte olmak; çevreyi dinleyip harekete hazır beklemek",
+    "zones": {
+      "rim": "testing the ground before stepping",
+      "side": "a still matter suddenly picking up pace",
+      "bottom": "something long put off",
+      "handle": "your own caution and pace",
+      "saucer": "a group around you moving quickly"
+    },
+    "url_tr": "https://falyora.app/semboller/tavsan",
+    "url_en": "https://falyora.app/en/symbols/rabbit"
+  },
+  {
+    "id": "ucak",
+    "name_tr": "Uçak",
+    "name_en": "Airplane",
+    "category": "objects",
+    "traditional_en": "a quick development, a trip or distant news",
+    "falyora_reading_en": "a jump past every stage in between",
+    "traditional_tr": "hızlı bir gelişme, yolculuk ya da uzaktan haber",
+    "falyora_reading_tr": "aradaki adımları atlayan bir sıçrama",
+    "zones": {
+      "rim": "an idea about to take off",
+      "side": "a shift that is already airborne",
+      "bottom": "a past leap now part of life",
+      "handle": "a big step by your decision",
+      "saucer": "a change arriving from far off"
+    },
+    "url_tr": "https://falyora.app/semboller/ucak",
+    "url_en": "https://falyora.app/en/symbols/airplane"
+  },
+  {
+    "id": "ucgen",
+    "name_tr": "Üçgen",
+    "name_en": "Triangle",
+    "category": "shapes",
+    "traditional_en": "tip up reads as success, tip down as delay",
+    "falyora_reading_en": "focus: scattered things narrowing toward one aim",
+    "traditional_tr": "ucu yukarıda başarı, aşağıda gecikme",
+    "falyora_reading_tr": "odak; dağınık şeylerin tek bir hedefe toplanması",
+    "zones": {
+      "rim": "narrowing down toward a decision",
+      "side": "balancing three sides of something",
+      "bottom": "an old decision still setting direction",
+      "handle": "sorting your own priorities",
+      "saucer": "three parties coming together nearby"
+    },
+    "url_tr": "https://falyora.app/semboller/ucgen",
+    "url_en": "https://falyora.app/en/symbols/triangle"
+  },
+  {
+    "id": "yaprak",
+    "name_tr": "Yaprak",
+    "name_en": "Leaf",
+    "category": "nature",
+    "traditional_en": "news and plenty; a loose leaf means distant news",
+    "falyora_reading_en": "a small share that came from something larger",
+    "traditional_tr": "haber ve bolluk; kopmuş yaprak uzaktan haber",
+    "falyora_reading_tr": "büyük bir bütünden kopup sana gelen küçük pay",
+    "zones": {
+      "rim": "a modest thing newly reaching you",
+      "side": "a portion still travelling toward you",
+      "bottom": "old advice or a skill still used",
+      "handle": "a small return on your effort",
+      "saucer": "everyday sharing among people close by"
+    },
+    "url_tr": "https://falyora.app/semboller/yaprak",
+    "url_en": "https://falyora.app/en/symbols/leaf"
+  },
+  {
+    "id": "yilan",
+    "name_tr": "Yılan",
+    "name_en": "Snake",
+    "category": "animals",
+    "traditional_en": "a rival posing as a friend",
+    "falyora_reading_en": "something moving by winding rather than straight",
+    "traditional_tr": "dost kılığındaki bir rakip",
+    "falyora_reading_tr": "düz değil, kıvrılarak ilerleyen bir konu",
+    "zones": {
+      "rim": "a roundabout matter in the near term",
+      "side": "an ongoing process not going straight",
+      "bottom": "a matter carried for a long time",
+      "handle": "your own hesitation or indirect path",
+      "saucer": "a general situation from outside"
+    },
+    "url_tr": "https://falyora.app/semboller/yilan",
+    "url_en": "https://falyora.app/en/symbols/snake"
+  },
+  {
+    "id": "yildiz",
+    "name_tr": "Yıldız",
+    "name_en": "Star",
+    "category": "nature",
+    "traditional_en": "good luck, achievement and wishes fulfilled",
+    "falyora_reading_en": "intersection: separate things meeting at one point",
+    "traditional_tr": "şans, başarı ve dileğin kabul olması",
+    "falyora_reading_tr": "kesişme; ayrı şeylerin tek noktada buluşması",
+    "zones": {
+      "rim": "several matters knotting together now",
+      "side": "a convergence; compare the arms",
+      "bottom": "a past turning point still felt",
+      "handle": "gathering scattered wishes into focus",
+      "saucer": "other people's paths crossing near you"
+    },
+    "url_tr": "https://falyora.app/semboller/yildiz",
+    "url_en": "https://falyora.app/en/symbols/star"
+  },
+  {
+    "id": "yol",
+    "name_tr": "Yol",
+    "name_en": "Road",
+    "category": "shapes",
+    "traditional_en": "a journey and change; a fork means a choice",
+    "falyora_reading_en": "the shape of a process: straight, stalled or forking",
+    "traditional_tr": "yolculuk ve değişim; çatallanan yol bir seçimdir",
+    "falyora_reading_tr": "bir sürecin biçimi: düz, kesik ya da çatallı",
+    "zones": {
+      "rim": "a process opening up now",
+      "side": "broken or unbroken line reads best",
+      "bottom": "a long process rooted in the past",
+      "handle": "your own step and process",
+      "saucer": "movement started by others, often broken"
+    },
+    "url_tr": "https://falyora.app/semboller/yol",
+    "url_en": "https://falyora.app/en/symbols/road"
+  },
+  {
+    "id": "yuz",
+    "name_tr": "Yüz",
+    "name_en": "Face",
+    "category": "human",
+    "traditional_en": "an acquaintance, or someone about to appear",
+    "falyora_reading_en": "an expression or mood, most often your own",
+    "traditional_tr": "tanıdık biri ya da hayatına yeni girecek biri",
+    "falyora_reading_tr": "bir ifade ya da ruh hâli, çoğunlukla seninki",
+    "zones": {
+      "rim": "the mood you carry now",
+      "side": "a mood shifting as things unfold",
+      "bottom": "a mood you once knew",
+      "handle": "almost always your own expression",
+      "saucer": "the mood at home, not whose"
+    },
+    "url_tr": "https://falyora.app/semboller/yuz",
+    "url_en": "https://falyora.app/en/symbols/face"
+  },
+  {
+    "id": "yuzuk",
+    "name_tr": "Yüzük",
+    "name_en": "Ring",
+    "category": "objects",
+    "traditional_en": "a promise or bond between people",
+    "falyora_reading_en": "closure: something that began reaching its end",
+    "traditional_tr": "verilen bir söz ya da kurulan bir bağ",
+    "falyora_reading_tr": "kapanış; başlayan bir şeyin sona ermesi",
+    "zones": {
+      "rim": "something closing right now",
+      "side": "check whether the loop truly closes",
+      "bottom": "a long-standing promise or agreement",
+      "handle": "a promise you made, not received",
+      "saucer": "a bond coming from outside"
+    },
+    "url_tr": "https://falyora.app/semboller/yuzuk",
+    "url_en": "https://falyora.app/en/symbols/ring"
+  },
+  {
+    "id": "zarf",
+    "name_tr": "Zarf",
+    "name_en": "Envelope",
+    "category": "objects",
+    "traditional_en": "awaited news, letters or official papers",
+    "falyora_reading_en": "something not yet said, written but unread",
+    "traditional_tr": "beklenen haber, mektup veya resmî yazı",
+    "falyora_reading_tr": "henüz söylenmemiş, yazılmış ama okunmamış bir şey",
+    "zones": {
+      "rim": "words almost ready to be spoken",
+      "side": "a conversation under way; flap depth matters",
+      "bottom": "something old never said",
+      "handle": "a letter you are still composing",
+      "saucer": "a word reaching you from others"
+    },
+    "url_tr": "https://falyora.app/semboller/zarf",
+    "url_en": "https://falyora.app/en/symbols/envelope"
+  }
+]
